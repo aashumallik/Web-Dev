@@ -1,2 +1,2 @@
-# ComS-106
+# Web-Dev
 Web Dev projects
